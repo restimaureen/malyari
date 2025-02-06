@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'MALYARI',
-  description: 'Mental Health AI-Learning Your Assistance for Reinforcing Insights',
+  description: 'Mental Health AI Assistant',
 }
 
 export default function RootLayout({
