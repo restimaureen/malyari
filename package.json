@@ -11,7 +11,18 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.1.0"
+    "next": "14.1.0",
+    "ai": "^2.2.31",
+    "openai": "^4.0.0",
+    "openai-edge": "^1.2.2",
+    "@vercel/analytics": "^1.1.2",
+    "@vercel/ai": "^3.0.1",
+    "clsx": "^2.1.0",
+    "tailwind-merge": "^2.2.1",
+    "class-variance-authority": "^0.7.0",
+    "@radix-ui/react-slot": "^1.0.2",
+    "@radix-ui/react-alert-dialog": "^1.0.5",
+    "lucide-react": "^0.323.0"
   },
   "devDependencies": {
     "typescript": "^5",
@@ -22,6 +33,7 @@
     "postcss": "^8",
     "tailwindcss": "^3.3.0",
     "eslint": "^8",
-    "eslint-config-next": "14.1.0"
+    "eslint-config-next": "14.1.0",
+    "@types/lodash": "^4.14.202"
   }
 }
